@@ -7,7 +7,8 @@ I'm not the coder and this is a fork of [Find-IP]("https://github.com/DistroTEAM
 
 ### [!] About unsplash
 With this script you can obtain IP address a host name !
-write program by MehranAlamBeigi
+
+write program by [MehranAlamBeigi].(https://alammehran67@gmail.com)
 
 --------------------------------------------------------------------
 ### [?] How to use this script on ( windows, mac, linux )
