@@ -19,7 +19,3 @@ write program by [MehranAlamBeigi](https://www.github.com/mehranalam)
 5. Enter `python Host2IP.py` or `python3 Host2IP.py`
 6. Enjoy (:
 --------------------------------------------------------------------
-### Screen Shot
-![Screen Shot of script](https://github.com/IHosseini083/Host2IP/blob/master/ss/img.png "Screen Shot of script")
-
- 
