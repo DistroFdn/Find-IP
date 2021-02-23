@@ -2,9 +2,6 @@ Find-ip
 =================================
 ![Code Size](https://img.shields.io/github/languages/code-size/distroteam/find-ip) ![Top Language](https://img.shields.io/github/languages/top/distroteam/find-ip) ![GitHub stars](https://img.shields.io/github/stars/distroteam/find-ip)
 --------------------------------------------------------------------
-### [!] Disclaimer
-I'm not the coder and this is a fork of [Find-IP]("https://github.com/DistroTEAM/Find-IP") by [DistroTEAM]("https://github.com/DistroTEAM)
-
 ### [!] About unsplash
 With this script you can obtain IP address a host name !
 
