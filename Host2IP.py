@@ -1,4 +1,5 @@
 # Imports
+#powered by ILIA and DistroTV
 from socket import gethostbyname
 from colorama import Fore, init
 from os import name, system
