@@ -5,8 +5,6 @@ Find-ip
 ### [!] About unsplash
 With this script you can obtain IP address a host name !
 
-write program by [MehranAlamBeigi](https://www.github.com/mehranalam)
-
 --------------------------------------------------------------------
 ### [?] How to use this script on ( windows, mac, linux )
 1. First download python and install on your system. [Download Python +3.8](https://www.python.org/downloads/)
